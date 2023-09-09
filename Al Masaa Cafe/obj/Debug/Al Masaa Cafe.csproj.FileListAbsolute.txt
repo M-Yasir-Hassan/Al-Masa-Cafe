@@ -1,0 +1,43 @@
+E:\Study\OOP Codes\Al Masaa Cafe\Al Masaa Cafe\Al Masaa Cafe\bin\Debug\Al Masaa Cafe.exe.config
+E:\Study\OOP Codes\Al Masaa Cafe\Al Masaa Cafe\Al Masaa Cafe\bin\Debug\Al Masaa Cafe.exe
+E:\Study\OOP Codes\Al Masaa Cafe\Al Masaa Cafe\Al Masaa Cafe\bin\Debug\Al Masaa Cafe.pdb
+E:\Study\OOP Codes\Al Masaa Cafe\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al Masaa Cafe.csprojAssemblyReference.cache
+E:\Study\OOP Codes\Al Masaa Cafe\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.Form1.resources
+E:\Study\OOP Codes\Al Masaa Cafe\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.Properties.Resources.resources
+E:\Study\OOP Codes\Al Masaa Cafe\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al Masaa Cafe.csproj.GenerateResource.cache
+E:\Study\OOP Codes\Al Masaa Cafe\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al Masaa Cafe.csproj.CoreCompileInputs.cache
+E:\Study\OOP Codes\Al Masaa Cafe\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al Masaa Cafe.exe
+E:\Study\OOP Codes\Al Masaa Cafe\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al Masaa Cafe.pdb
+E:\Study\OOP Codes\Al Masaa Cafe\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.Form2.resources
+E:\Study\OOP Codes\Al Masaa Cafe\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.Form3.resources
+E:\Study\OOP Codes\Al Masaa Cafe\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.adminForm.resources
+E:\Study\OOP Codes\Al Masaa Cafe\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.CustomerForm.resources
+E:\Study\OOP Codes\Al Masaa Cafe\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.TakeOrder.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\bin\Debug\Al Masaa Cafe.exe.config
+E:\Al Masaa Cafe\Al Masaa Cafe\bin\Debug\Al Masaa Cafe.exe
+E:\Al Masaa Cafe\Al Masaa Cafe\bin\Debug\Al Masaa Cafe.pdb
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.adminForm.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.CustomerForm.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.Form1.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.Form2.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.Form3.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.Properties.Resources.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.TakeOrder.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al Masaa Cafe.csproj.GenerateResource.cache
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al Masaa Cafe.csproj.CoreCompileInputs.cache
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al Masaa Cafe.exe
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al Masaa Cafe.pdb
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.ReceptionistForm.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al Masaa Cafe.csprojAssemblyReference.cache
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.ShowOrderedItems.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.CustomerBill.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.Admin1Result.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.CheckOrderByID.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.Admin2Result.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.OrderByName.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.AdminTotalOrders.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.AdminAddRecep.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.DelReceptionist.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.TakeRecepOrder.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.RecepBill.resources
+E:\Al Masaa Cafe\Al Masaa Cafe\obj\Debug\Al_Masaa_Cafe.CustomerHistory.resources
